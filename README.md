@@ -44,6 +44,8 @@ IGREEN/
   - [Prediction Model (KNN)](#prediction-model)
   - [Cloud Deployment](#deployment-and-cloud-integration)
   - [Dashboard](#data-analysis-and-dashboard)
+- [Disease Detection](#disease-detection)
+- [Plant Optimization](#plant-optimization)
 
 ## 📊 Data Collection
 
