@@ -1,0 +1,24 @@
+plant_name,temp,EC ds/m,light_time_day,red_light,blue_light,far_red,humidity ,ph,water_times (times/day),air flow ,growth_yield/m^2 (kg),life cycle (m),watering_quantity_month (L),plant_size,accuracy
+Aleo Vera ,18-24 c,0.8-1.5,10 - 14,60%,30%,10%,50-60%,5.5-6.5,2,good,2.5-6,6-9m,27,medium,70
+Aleo Vera ,18-24 c,0.8-1.5,10 - 14,60%,30%,10%,50-60%,5.5-6.5,1,good,2.5-6,6-9m,27,medium,70
+Aloe Vera,20-25 c,1.5-2.5,12-16,80,20,10,50 -60 ,5.5-6.0,3,moderate,2.5-6,6-8,27,medium ,70
+Aloe Vera,22-28 c,2.0-3.0,14-18,70,25,5,40-50,5.8-6.5,2,high,3-6,7-9,27,medium ,70
+Aloe Vera,20-25 c,1.5-2.5,12-16,80,20,10,50 -60 ,5.5-6.0,4,moderate,2.5-6,6-8,27,medium ,70
+Aloe Vera,20-25 c,1.5-2.5,12-16,80,20,10,60-70,5.5-6.0,4,low,1.8-5.5,5-6,27,medium ,70
+lavender ,21-24,1.5-2.0,12-16,50,30,5,40-50,6.0-6.5,4,consistent,2,2-3,35,medium,80
+lavender ,22,1.8,12-16,60,20,5,35-45,6.2,5,moderate,2.5,2-3,35,medium,80
+lavender ,23,1.6-2.0,12,40,40,5,40,6,6,high,2,2-3,30,small,80
+lavender ,24,1.7,16,70,20,5,50,6.1,8,consistent,2.8,3-4,40,large,80
+lavender ,21,1.5-1.8,13,55,25,0,45,6.3,6,low,2.3,2-3,30,medium,80
+Aloe Vera,25,1.8,14,60,40,5,50,6,2,high,3-5,9,27,medium ,70
+lavender ,20,1,12,60,40,0,40,6.8,2,moderate,0.8-1.8,2-3,30,medium,80
+lavender ,20,1.5,12,55,45,0,45,7,4,high,1.2-2,2-3,30,medium,80
+lavender ,22,1.4,16,60,40,0,35,7.2,3,moderate,1-1.6,2-3,30,medium,80
+Ashwagandha,22-28,1.0-1.5,12-16,70,30,10,50-60,5.8-6.2,6,moderate,2.5-3,4-5,35,medium,70
+Ashwagandha,25-30,1.5-2.0,14,60,30,10,50-60,5.8-6.2,8,moderate,3.0-3.5,4-5,45,medium,70
+Ashwagandha,20-26,0.8-1.2,12-16,50,40,10,55-65,5.5-6.0,5,high,2,5,35,medium,70
+Ashwagandha,22-28,1.0-1.5,12-16,70,20,10,55-65,5.5-6.0,5,high,2,4-6,35,large,70
+Ashwagandha,25-27,2.0-2.4,16,40,30,10,50-60,6.0-6.5,4,moderate,2,5,35,large,70
+Ashwagandha,27,1.8-2.0,16,45,25,15,60-70,5.8-6.2,3,high,3.8,6-7,,large,70
+Ashwagandha,25,1.6-1.8,16,50,20,20,50-60,6.0-6.5,4,moderate,2,5,50,large,70
+Ashwagandha,20-24,1.5-2.0,14,50,25,10,60-70,5.5-6.5,5,moderate,3.5,6,55,large,70
