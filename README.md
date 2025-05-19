@@ -38,7 +38,7 @@ IGREEN/
 - [📂 Project Structure](#-project-structure)
 - [📊 Data Collection](#-data-collection)
 - [Data Processing and Workflow](#data-processing-and-workflow)
-  - [Data Understanding](#data-understanding)
+  - [Data Understanding](#data-understanding) 
   - [Data Processing](#data-processing)
   - [Synthetic Data Generation](#synthetic-data-generation)
   - [Prediction Model (KNN)](#prediction-model)
